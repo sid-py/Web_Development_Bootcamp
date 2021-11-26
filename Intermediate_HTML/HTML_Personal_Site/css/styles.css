@@ -1,15 +1,21 @@
+
+
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: bisque;
 }
 
 hr{
-    background-color: white;
-    border-style: line none none;
-    border-color: grey;
-    border-width: 2px; 
-               
-    width: 50%;
+    /* background-color: bisque; */
+    border-style: none;
+    border-top-style: dotted;
+    /* border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none; */
+    border-color: lightgrey;
+    border-width: 6px;
+     
+    width: 7%;
 }
 
  
